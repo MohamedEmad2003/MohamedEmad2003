@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Emad</h1>
 <h3 align="center">An ambitious Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedemad2003&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedemad2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedemad2003" alt="mohamedemad2003" /></a> </p>
-
 - 🔭 I’m currently working on **Learning new fields**
 
 - 🌱 I’m currently learning **Networking for Security, Image Processing**
@@ -25,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prof-mohamedemad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prof-mohamedemad" height="30" width="40" /></a>
 <a href="https://fb.com/prof.mohamedemad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prof.mohamedemad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc4nl8sgocfxtkrjykc6ejhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4nl8sgocfxtkrjykc6ejhw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc4nl8sgocfxtkrjykc6ejhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4nl8sgocfxtkrjykc6ejhw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammed403094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammed403094" height="30" width="40" /></a>
 </p>
 

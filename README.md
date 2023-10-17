@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Learning new fields**
 
-- 🌱 I’m currently learning **Networking for Security, Image Processing**
+- 🌱 I’m currently learning **Communications Engineering**
 
 - 👯 I’m looking to collaborate on **any internship/ summer training**
 
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Python, C programming**
 
-- 📫 How to reach me **mohammed403094@feng.bu.edu.eg**
+- 📫 How to reach me **mohamedemadwahdan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZdQuBXLKcyyb8g_JEM8T3OvG8RolIA3p/view?usp=sharing](https://drive.google.com/file/d/1ZdQuBXLKcyyb8g_JEM8T3OvG8RolIA3p/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZdQuBXLKcyyb8g_JEM8T3OvG8RolIA3p/view?usp=sharing](https://drive.google.com/file/d/1ZdQuBXLKcyyb8g_JEM8T3OvG8RolIA3p/view?usp=sharing)](https://drive.google.com/file/d/1zRk8F3yh_VNBDMpU35vuZGSMR2GhQQRA/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am collaborator**
 

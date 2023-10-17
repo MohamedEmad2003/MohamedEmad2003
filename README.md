@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohamedemadwahdan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZdQuBXLKcyyb8g_JEM8T3OvG8RolIA3p/view?usp=sharing](https://drive.google.com/file/d/1ZdQuBXLKcyyb8g_JEM8T3OvG8RolIA3p/view?usp=sharing)](https://drive.google.com/file/d/1zRk8F3yh_VNBDMpU35vuZGSMR2GhQQRA/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1zRk8F3yh_VNBDMpU35vuZGSMR2GhQQRA/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am collaborator**
 

@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **mohamedemadwahdan@gmail.com**
 
-- 📄 Know about my experiences [Check my CV click here!](https://drive.google.com/file/d/1zRk8F3yh_VNBDMpU35vuZGSMR2GhQQRA/view?usp=sharing)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zRk8F3yh_VNBDMpU35vuZGSMR2GhQQRA/view?usp=sharing" target="blank"> CV</a>
+- 📄 Study : <a href="https://drive.google.com/drive/folders/1i6_5IJ48QYftHExzr87wEZW-Cxqsu2Vx?usp=drive_link" target="blank"> 2nd Year Material</a>
 - ⚡ Fun fact **I think I am collaborator and a hard-working student**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Emad</h1>
+<h1 align="center">This is Mohamed Emad</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
-- 🔭 I’m currently working on **123**
 
 - 👯 I’m looking to collaborate on **456**
 

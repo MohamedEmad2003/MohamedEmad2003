@@ -20,6 +20,8 @@
 - digital IC design : <a href="https://drive.google.com/file/d/18PEhc-BceRpTNVB55-E9H_vx8wynBmrQ/view?usp=sharing" target="blank"> I found this amazing digital IC design roadmap!</a>
 - digital IC design : <a href="https://drive.google.com/drive/folders/1xybxKdevnhAntzfM2v-YcEjSUZLvNtxI" target="blank"> digital IC design community!</a>
 
+Cyber security material : <a href="https://mega.nz/folder/RsBhSaDQ#jM_fmoz07BU1gISwJXlVWQ" target="blank"> i found this amazing cyber sec material </a>
+
 
 - ⚡ Fun fact **I think I am collaborator and a hard-working student**
 

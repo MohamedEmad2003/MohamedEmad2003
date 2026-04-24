@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Emad</h1>
-<h3 align="center">An ambitious Student</h3>
+<h3 align="center">Undergraduate</h3>
 
 - 🔭 I’m currently working on **Learning new fields**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any internship/ summer training**
 
-- 🤝 I’m looking for help with **learning cyber security**
+- 🤝 I’m looking for help with **learning **
 
 - 💬 Ask me about **Python, C programming**
 

@@ -16,7 +16,7 @@
 - 📄 Know about my experiences 
 - 📄 Study online :
 - Project PCB : <a href="https://drive.google.com/drive/folders/1no-NXmibZ9shovAMRmidqNW4xvmkFS8y?usp=sharing" target="blank"> 8-KHz Sallen-Key BPF</a>
-- Material : <a href="https://drive.google.com/drive/folders/1j82M2wb5Lt1oERsX7DN8Rt9j6ymeCGQv?usp=sharing" target="blank"> Material 4th year 2nd term </a>
+
 - digital IC design : <a href="https://drive.google.com/drive/folders/1FTDR_OC2bZhiGVgMvRv7d40X1cZGCyic?usp=sharing" target="blank"> I found this amazing digital IC design roadmap!</a>
 
 - digital IC design : <a href="https://drive.google.com/drive/folders/1xybxKdevnhAntzfM2v-YcEjSUZLvNtxI" target="blank"> digital IC design community!</a>
